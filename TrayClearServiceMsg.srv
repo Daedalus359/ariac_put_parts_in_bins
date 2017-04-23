@@ -1,0 +1,7 @@
+#TrayClearServiceMsg.srv
+#Kevin Bradner, kmb172@case.edu
+
+string[] part_names
+geometry_msgs/PoseStamped[] initial_poses
+---
+bool successful_clear
